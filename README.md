@@ -1,3 +1,4 @@
 ## 👋 Hi, I’m @cbullard-dev
-- 👀 I’m interested in JS, Node.JS, C++, C#, Python, and many more
-- 🌱 I’m currently learning Node.JS API Creation
+- 👀 I’m interested in C++, C#, JS, Node.JS, Python, and more
+- 🌱 I’m currently learning Unity Games
+- 🖌️ I'm activley developing Tiny Adventure 
